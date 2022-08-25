@@ -1,0 +1,18 @@
+{
+	"app_id": "wxa82ee1f8061c4342",
+	"app_secret": "9c3edbd8bf958d7b9bc6b4570a574243",
+	"template_id": "Dv_JGIJGxofw9CIGRpughBbiyOaqCRODWdW1SqgqfxU",
+	"user": ["oqycI6kFwXN6Tkr4a0z875eWp29k","oqycI6tdUG2GZ9P-pOGsRWALefpU"],
+	"province": "山东",
+	"city": "烟台",
+	"birthday1": "r2002-11-12",
+	"birthday2": "r2000-12-15",
+	"love_date": "2021-11-22",
+	"Whether_Eng": "f\u5426",
+	"caihongpi_API": "\u5426",
+	"lizhi_API": "1e04d7b2cf055acf3f46e463f6e4ca18",
+	"tianqi_API": "1e04d7b2cf055acf3f46e463f6e4ca18",
+	"health_API": "1e04d7b2cf055acf3f46e463f6e4ca18",
+	"lucky_API": "1e04d7b2cf055acf3f46e463f6e4ca18",
+	"astro": "\u6469\u7faf\u5ea7"
+}
